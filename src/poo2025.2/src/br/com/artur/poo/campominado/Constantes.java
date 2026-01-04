@@ -4,7 +4,7 @@ public final class Constantes {
 	private static int NUM_LINHAS = 5;
 	private static int NUM_COL = 5;
 	private static int NUM_MINAS = 5;
-	private static int TAM_ESPACO = 30;
+	private static int TAM_ESPACO = 100;
 	private static int OFFSET_SUPERIOR = 100;
 	private static int ALTURA_BARRA_SUP = 30;
 
